@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    font-family: "Montserrat";
+    margin: 20px 500px;
+    background-image: url(img/space-wallpaper.jpg);
+    color: white;
+}
+
+.page {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: left;
+}
+
+.zen, h1, h2{
+    text-align: center;
+}
+
+a, a .zen {
+    color: white;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.page.zen h1 {
+    font-size: 40px;
+}
